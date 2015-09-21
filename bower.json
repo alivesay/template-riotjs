@@ -1,0 +1,19 @@
+{
+  "name": "template-riotjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alivesay/template-riotjs",
+  "authors": [
+    "Andrew Livesay <andrew.livesay@gmail.com>"
+  ],
+  "license": "Unlicense",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "riot": "~2.2.4"
+  }
+}

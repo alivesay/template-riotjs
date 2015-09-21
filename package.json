@@ -1,0 +1,40 @@
+{
+  "name": "template-riotjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "publis": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alivesay/template-riotjs.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/alivesay/template-riotjs/issues"
+  },
+  "homepage": "https://github.com/alivesay/template-riotjs",
+  "dependencies": {
+    "hapi": "^10.0.0",
+    "inert": "^3.0.1",
+    "mentat": "^2.0.11",
+    "socket.io": "^1.3.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bower": "0.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-flatten": "^0.2.0",
+    "gulp-inject": "^2.2.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-order": "^1.1.1",
+    "gulp-riot": "^0.3.0",
+    "jade": "^1.11.0",
+    "nodemon": "^1.6.1",
+    "wiredep": "^3.0.0-beta"
+  }
+}
